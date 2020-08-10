@@ -33,17 +33,18 @@ USAGE
 
 ## `owoifier commit [MESSAGE]`
 
-git commit
+git commit wrapper that owoifies commit message
 
 ```
 USAGE
   $ owoifier commit [MESSAGE]
 
 OPTIONS
-  -h, --help  show CLI help
+  -e, --owoerrors  owoifies errors
+  -h, --help       show CLI help
 
 EXAMPLE
-  $ owoifier --commit xyz
+  $ owoifier --commit "hello world"
 ```
 
 _See code: [src\commands\commit.ts](https://github.com/iraizo/git-owoifier/blob/v1.0.0/src\commands\commit.ts)_
