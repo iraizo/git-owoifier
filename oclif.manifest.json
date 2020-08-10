@@ -1,0 +1,1 @@
+{"version":"1.0.0","commands":{"commit":{"id":"commit","description":"git commit","pluginName":"owoifier","pluginType":"core","aliases":[],"examples":["$ owoifier --commit xyz\n"],"flags":{"help":{"name":"help","type":"boolean","char":"h","description":"show CLI help","allowNo":false}},"args":[{"name":"message"}]}}}
