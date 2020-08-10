@@ -18,7 +18,7 @@ owoifies your git commit messages
 $ npm install -g owoifier
 $ owoifier COMMAND
 running command...
-$ owoifier (-v|--version|version)
+$ owoifier (-v|--version|version|commit|--owoerrors|-e)
 owoifier/1.0.0 win32-x64 node-v12.16.3
 $ owoifier --help [COMMAND]
 USAGE
